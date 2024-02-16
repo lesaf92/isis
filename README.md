@@ -1,4 +1,4 @@
-# ISIS: **I**TA **S**ystem for **I**ndoor **S**LAM
+# ISIS: I*TA* S*ystem* for I*ndoor* S*LAM*
 Code for the ISIS robot
 <img src='assets/isis_v1.jpg' width='150'>
 
