@@ -1,5 +1,6 @@
-# ISIS: I*TA* S*ystem* for I*ndoor* S*LAM*
+# ISIS: ITA System for Indoor SLAM
 Code for the ISIS robot
+
 <img src='assets/isis_v1.jpg' width='150'>
 
 ## Hardware
