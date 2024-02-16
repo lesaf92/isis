@@ -1,7 +1,7 @@
-# isis
-Code for the ISIS robot
+# ISIS: **I**TA **S**ystem for **I**ndoor **S**LAM
+Code for the ISIS robot <img src='assets/isis_v1.jpg' width='150'>
 
-<img src='assets/isis_v1.jpg' width='100'>
+
 
 ## Hardware
 - SLAMTEC RPLIDAR A2M8 2D lidar scanner
